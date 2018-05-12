@@ -1,0 +1,39 @@
+_repo: In-het-rijk-van-Siameezen-en-Maleiers_42885
+_version: 0.1.0
+alternative_title: Matahari. Dutch
+contributor:
+  translator:
+    agent_name: Nahuys, Alice van
+    alias: Van Nahuys, Alice
+    gutenberg_agent_id: '41911'
+    url: http://www.gutenberg.org/2009/agents/41911
+covers:
+- cover_type: archival
+  image_path: 42885-h/images/new-cover-tn.jpg
+creator:
+  author:
+    agent_name: Morgenthaler, Hans
+    aliases:
+    - Morgenthaler, H. O.
+    - Morgenthaler, Hans O.
+    - Morgenthaler, Hamo
+    birthdate: 1890
+    deathdate: 1928
+    gutenberg_agent_id: '41910'
+    url: http://www.gutenberg.org/2009/agents/41910
+description: ''
+gutenberg_issued: '2013-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42885'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Morgenthaler, Hans, 1890-1928'
+- !lcsh 'Thailand -- Description and travel'
+- !lcsh 'Malay Peninsula -- Description and travel'
+title: In het rijk van Siameezen en Maleiers
+url: http://www.gutenberg.org/ebooks/42885
